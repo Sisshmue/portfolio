@@ -1,0 +1,39 @@
+.heading {
+  margin-left: 30px;
+  margin-top: 30px;
+  position: relative;
+}
+
+.edu-point,
+.pro-point {
+  background-color: #2c2b2e;
+  margin: 30px 60px;
+  padding: 20px 20px;
+  border-radius: 20px;
+}
+
+.pro-flex,
+.edu-flex {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.degree-year,
+.title-duration {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+
+.li-flex {
+  margin-left: 15px;
+  display: flex;
+  gap: 10px;
+}
