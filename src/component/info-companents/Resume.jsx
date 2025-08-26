@@ -6,7 +6,7 @@ function Resume() {
       degree: "Bachelor of Engineering in Software",
       school: "Mae Fah Luang University",
       location: "Chiang Rai, Thailand",
-      year: "2022-2027",
+      year: "Aug 2022 - 2027",
       gpa: "3.93/4.0",
     },
   ];
